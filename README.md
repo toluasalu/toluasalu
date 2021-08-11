@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**toluasalu/toluasalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Hi there 👋, I'm Tolulope Asalu.
+- I'm passionate about building a career as a mobile developer.
+- My areas of interest are Native Android ,Flutter and .Net. 
+- 🌱 I’m currently learning Modern Android Development Concepts(Kotlin, Android Architecture Components, Navigation e.t.c)
+- 👯 I’m looking to collaborate on Android Projects and hone my technical skills
+
+
+
+- 📫You can reach me through my email: [johnasalu13@gmail.com](johnasalu13@gmail.com)
+
+
