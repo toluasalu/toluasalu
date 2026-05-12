@@ -3,14 +3,14 @@
 
 
 - Hi there 👋, I'm Tolulope Asalu, a mobile engineer.
-- I am a software engineer focused on building high-performance, beautiful mobile experiences within the Google ecosystem.
+- I am a software engineer with a proven track record of delivering high-quality products across fintech, logistics, and consumer tech.
 - Currently, I am mastering Modern Android Development (MAD) and preparing to scale my technical expertise into Kotlin Multiplatform (KMP)
   
 - ### 🛠️ What I'm working on:
 *   **OyaRiyder & OyaDriver**: A comprehensive mobility ecosystem built natively with Jetpack Compose, Material 3, and Supabase Realtime.
    
 ### 🚀 Technical Expertise:
-*   **Mobile**: Modern Android (Kotlin, Jetpack Compose, Material 3).
+*   **Mobile**: Modern Android (Kotlin, Jetpack Compose, Material 3) & React Native (Expo).
 *   **Backend & Integration**: Supabase, Firebase, and REST/GraphQL APIs.
   
 - Ask me anything about Android and Google-related mobile technologies. 
