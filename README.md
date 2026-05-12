@@ -13,7 +13,7 @@
 *   **Mobile**: Modern Android (Kotlin, Jetpack Compose, Material 3) & React Native (Expo).
 *   **Backend & Integration**: Supabase, Firebase, and REST/GraphQL APIs.
   
-- Ask me anything about Android and Google-related mobile technologies. 
+- Ask me anything about Android and related mobile technologies. 
 - 📫You can reach me through my email: [johnasalu13@gmail.com](johnasalu13@gmail.com)
 
 
